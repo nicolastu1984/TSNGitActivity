@@ -1,0 +1,1 @@
+var blank = "Hello World";
